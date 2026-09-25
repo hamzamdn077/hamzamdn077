@@ -29,8 +29,8 @@ Data Engineer — building end-to-end pipelines on the modern data stack.
 ### activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzamdn077&show_icons=true&count_private=true&hide_border=true&theme=default" height="130"/>
-  <img src="https://streak-stats.demolab.com?user=hamzamdn077&hide_border=true&theme=default" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzamdn077&show_icons=true&count_private=true&hide_border=true" height="130"/>
+  <img src="https://streak-stats.demolab.com?user=hamzamdn077&hide_border=true" height="130"/>
 </p>
 
 ---
