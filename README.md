@@ -34,8 +34,10 @@ Data Engineer — building end-to-end pipelines on the modern data stack.
 
 ### currently building
 
-- **[energy-intelligence-platform](https://github.com/hamzamdn077/energy-intelligence-platform)** — EIA electricity data pipeline, bronze → silver → gold on Databricks + dbt
+- **[smart-manufacturing-platform](https://github.com/hamzamdn077/smart-manufacturing-platform)** — an end-to-end data engineering platform for transforming smart manufacturing data into analytics-ready datasets
 - **[freight-data-engineering-platform](https://github.com/hamzamdn077/freight-data-engineering-platform)** — end-to-end freight data pipeline
+- **[energy-intelligence-platform](https://github.com/hamzamdn077/energy-intelligence-platform)** — EIA electricity data pipeline, bronze → silver → gold on Databricks + dbt
+
 
 ---
 
